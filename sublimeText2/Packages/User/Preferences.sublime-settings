@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": "selection",
+	"font_face": "Inconsolata-g",
+	"font_size": 14.0,
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tab_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+  //"draw_white_space": "all"
+  //"line_padding_bottom": -1.50,
+  //"line_padding_top": -1.50
+}
